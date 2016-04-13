@@ -1,0 +1,13 @@
+{
+  "name": "auth-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-permission": "^2.1.2",
+    "angular-ui-router": "^0.2.18"
+  }
+}
